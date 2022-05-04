@@ -1,0 +1,1 @@
+# nominatim_geocode_plugin
